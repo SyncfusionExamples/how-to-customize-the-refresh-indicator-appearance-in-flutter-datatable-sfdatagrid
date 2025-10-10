@@ -1,4 +1,4 @@
-# how-to-customize-the-refresh-indicator-appearance-in-flutter-datatable-sfdatagrid
+# How to customize the refresh indicator appearance in Flutter datatable
  
 This repository contains a sample project that demonstrates how to customize the refresh indicator appearance in Syncfusion® Flutter DataGrid (SfDataGrid).
 
